@@ -5,7 +5,7 @@ html, body {
     height: 100%;
 }
 body {
-    background-image: url(jagercoin.jpg);
+    background-image:;
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -159,7 +159,7 @@ body {
 }
 
 /* Media Queries for Mobile Devices */
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 800px) {
     #header, #menu, .button, #ref, #Amount-ref, #lang {
         font-size: 4vw; /* Adjust font size for smaller screens */
         margin-left: 0;
